@@ -20,10 +20,10 @@ public class MyService extends Service {
 		// TODO Auto-generated method stub
 		return super.onStartCommand(intent, flags, startId);
 	}
-	//process (scheduled)
-	  //call actions (return dataunit, types Location, Battery...)
-	  //write data
-	  //update status
+	// TODO process (scheduled)
+	  // TODO call actions (return dataunit, types Location, Battery...)
+	  // TODO write data
+	  // TODO update status
 	
-	//bd write
+	// TODO bd write
 }
